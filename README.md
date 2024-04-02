@@ -1,5 +1,5 @@
 
-# **스마트 가상 인프라 침해 대응 시스템 개발 프로젝트**
+# **AI 가상 인프라 침해 대응 시스템 개발 프로젝트**
 
 ## **팀 구성 정보**
 PM, Architect Engineer, Data Security Analyst, Network Engineer, Application Developer, Cyber Intelligence Researcher
